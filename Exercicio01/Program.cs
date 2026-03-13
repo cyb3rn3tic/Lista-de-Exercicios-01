@@ -24,8 +24,8 @@ while (opcao != 1 && opcao != 2)
 
         double volume = comprimento * largura * altura;
         Console.WriteLine($"--------------------------------------------------");
-        Console.WriteLine($"O volume da caixa é: {volume} cm³");
-        Console.WriteLine($"O volume da caixa em litros é: {volume / 1000} L");
+        Console.WriteLine($"O volume da caixa é: {volume:F2} cm³");
+        Console.WriteLine($"O volume da caixa em litros é: {volume / 1000:F2} L");
     }
 
     else if (Convert.ToInt32(opcao) == 2)
@@ -41,7 +41,7 @@ while (opcao != 1 && opcao != 2)
 
         double volume = comprimento * largura * altura;
         Console.WriteLine($"--------------------------------------------------");
-        Console.WriteLine($"O volume da caixa é: {volume} m³");
-        Console.WriteLine($"O volume da caixa em litros é: {volume * 1000} L");
+        Console.WriteLine($"O volume da caixa é: {volume:F2} m³");
+        Console.WriteLine($"O volume da caixa em litros é: {volume * 1000:F2} L");
     }
     
