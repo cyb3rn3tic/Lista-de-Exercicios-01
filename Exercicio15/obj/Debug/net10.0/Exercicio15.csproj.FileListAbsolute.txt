@@ -1,0 +1,15 @@
+C:\Users\steff\Desktop\Academia do programador\Lista de Exercicios 01\Exercicio15\bin\Debug\net10.0\Exercicio15.exe
+C:\Users\steff\Desktop\Academia do programador\Lista de Exercicios 01\Exercicio15\bin\Debug\net10.0\Exercicio15.deps.json
+C:\Users\steff\Desktop\Academia do programador\Lista de Exercicios 01\Exercicio15\bin\Debug\net10.0\Exercicio15.runtimeconfig.json
+C:\Users\steff\Desktop\Academia do programador\Lista de Exercicios 01\Exercicio15\bin\Debug\net10.0\Exercicio15.dll
+C:\Users\steff\Desktop\Academia do programador\Lista de Exercicios 01\Exercicio15\bin\Debug\net10.0\Exercicio15.pdb
+C:\Users\steff\Desktop\Academia do programador\Lista de Exercicios 01\Exercicio15\obj\Debug\net10.0\Exercicio15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steff\Desktop\Academia do programador\Lista de Exercicios 01\Exercicio15\obj\Debug\net10.0\Exercicio15.AssemblyInfoInputs.cache
+C:\Users\steff\Desktop\Academia do programador\Lista de Exercicios 01\Exercicio15\obj\Debug\net10.0\Exercicio15.AssemblyInfo.cs
+C:\Users\steff\Desktop\Academia do programador\Lista de Exercicios 01\Exercicio15\obj\Debug\net10.0\Exercicio15.csproj.CoreCompileInputs.cache
+C:\Users\steff\Desktop\Academia do programador\Lista de Exercicios 01\Exercicio15\obj\Debug\net10.0\Exercicio15.sourcelink.json
+C:\Users\steff\Desktop\Academia do programador\Lista de Exercicios 01\Exercicio15\obj\Debug\net10.0\Exercicio15.dll
+C:\Users\steff\Desktop\Academia do programador\Lista de Exercicios 01\Exercicio15\obj\Debug\net10.0\refint\Exercicio15.dll
+C:\Users\steff\Desktop\Academia do programador\Lista de Exercicios 01\Exercicio15\obj\Debug\net10.0\Exercicio15.pdb
+C:\Users\steff\Desktop\Academia do programador\Lista de Exercicios 01\Exercicio15\obj\Debug\net10.0\Exercicio15.genruntimeconfig.cache
+C:\Users\steff\Desktop\Academia do programador\Lista de Exercicios 01\Exercicio15\obj\Debug\net10.0\ref\Exercicio15.dll
